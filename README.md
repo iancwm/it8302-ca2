@@ -40,7 +40,7 @@ Any API/functionality added to your chatbot, which was not discussed in our prac
 |Quality of Chatbot Functionality|30|
 |Overall client interaction|10|
 |Quality of Integrations|10|
-Program Score 100
+|Program Score|100|
 
 ---
 
